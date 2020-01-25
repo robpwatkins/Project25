@@ -27,3 +27,17 @@ html, body {
   background: black;
   color: lightgray;
 }
+
+.codeBox {
+  display: flex;
+  width: 1000px;
+  height: 500px;
+  margin: 25px auto;
+}
+
+.codeBox div {
+  width: 50%;
+  height: 100%;
+  background: white;
+  border: 1px solid black;
+}
